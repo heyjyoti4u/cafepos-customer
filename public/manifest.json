@@ -1,0 +1,22 @@
+{
+  "name": "Top Boy Pizza",
+  "short_name": "Top Boy Pizza",
+  "description": "Top Boy Pizza - Order from your table",
+  "start_url": "/", 
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ed1c23",
+  "icons": [
+    {
+      "src": "/apple-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
